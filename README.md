@@ -14,6 +14,27 @@ TaskFlow-Mana’s goal is to simplify day-to-day task management with a clean UI
 
 ---
 
+## **Screenshots**
+
+Below are sample placeholders — upload your images to GitHub (e.g., `/screenshots` folder) and update the file names accordingly:
+
+![Register Page](./screenshots/Screenshot-2025-12-06-184256.png)
+![Login Page](./screenshots/Screenshot-2025-12-06-184408.png)
+![Dashboard](./screenshots/Screenshot-2025-12-06-184315.png)
+![Create Task Modal](./screenshots/Screenshot-2025-12-06-184326.png)
+![Settings Page](./screenshots/Screenshot-2025-12-06-184343.png)
+
+> Upload these images to your GitHub repository (e.g., in a `screenshots/` folder),
+> then update the paths below accordingly.
+
+![Register Page](./screenshots/register.png)
+![Login Page](./screenshots/login.png)
+![Dashboard](./screenshots/dashboard.png)
+![Create Task Modal](./screenshots/create-task.png)
+![Settings Page](./screenshots/settings.png)
+
+---
+
 ## **Live Links**
 
 ### **Frontend**
